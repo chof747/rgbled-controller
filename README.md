@@ -14,6 +14,14 @@ This is a WiFi enabled RGB LED controller with the following features:
 - Breakout of not used GPIOs 12-14 plus GND
 - Wake up circuit prepared with a solder bridge
 
+The WiFi controller is also ammended by a peripheral board that contains:
+
+- 5 Light and 1 Mod Button
+- A Temperature and Humidity Sensor
+- An MCP23017 for IO expansion
+- A breakout for the unused pins of the IO Expander
+- An IDC connection with the same pin-out as the IDC connection of the Controller
+
 ## Components
 
 - ESP8266 as an ESP12-F module
@@ -24,6 +32,10 @@ This is a WiFi enabled RGB LED controller with the following features:
 - IDC 2x3 for I2C breakout
 - Std Pin headers for programming header and unused pins breakout
 - 0.5A Fuse
+- SMD Push buttons
+- MCP23017 (I2C)
+- SHT40x (temperature controller)
+- BAT54C (OR Gate type diodes)
 
 ## Revision History:
 
