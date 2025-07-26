@@ -37,6 +37,6 @@ The WiFi controller is also ammended by a peripheral board that contains:
 - SHT40x (temperature controller)
 - BAT54C (OR Gate type diodes)
 
-## Revision History:
+## Revision History
 
-V1.0 - send to production 26.07.2025
+**V1.0** - send to production 26.07.2025
