@@ -39,4 +39,4 @@ The WiFi controller is also ammended by a peripheral board that contains:
 
 ## Revision History:
 
-V1.0 
+V1.0 - send to production 26.07.2025
